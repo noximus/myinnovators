@@ -1,4 +1,0 @@
-myinnovators
-============
-
-My Innovators Website

@@ -112,6 +112,9 @@ label
 	width: 100%;
 	height: auto;
 }
+.services-list li{
+	overflow: hidden;
+}
 input, textarea
 {
 	font-family: 'Raleway';
@@ -409,8 +412,11 @@ h6.box-header:after
 }
 .header .logo
 {
-	width: 370px;
+	width: 470px;
 	/*float: left;*/
+}
+img {
+  image-rendering: optimizeQuality;
 }
 .header h1
 {

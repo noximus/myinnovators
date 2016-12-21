@@ -10,21 +10,21 @@ require_once("contact_form/config.php");
 			<div class="column column-1-3">
 				<ul class="features-list">
 					<li class="sl-small-location">
-						<p>272 Linden Avenue<br>Winter Park, FL 32789</p>
+						<p>60 Water Street<br>Brooklyn, NY 11201</p>
 					</li>
 				</ul>
 			</div>
 			<div class="column column-1-3">
 				<ul class="features-list">
 					<li class="sl-small-phone">
-						<p>Phone:<br>+149 75 23 222 35</p>
+						<p>Phone:<br>718 369 7411</p>
 					</li>
 				</ul>
 			</div>
 			<div class="column column-1-3">
 				<ul class="features-list">
 					<li class="sl-small-clock">
-						<p>Monday - Friday: 08.00 - 17.00<br>Saturday: 09.00 - 12.00</p>
+						<p>Monday - Friday: 9am - 6pm<br>Saturday: 10am - 4pm<br>Sunday: 10am - 4pm</p>
 					</li>
 				</ul>
 			</div>
@@ -33,12 +33,12 @@ require_once("contact_form/config.php");
 			<form class="contact-form" id="contact-form" method="post" action="contact_form/contact_form.php">
 				<div class="row">
 					<fieldset class="column column-1-2">
-						<input class="text-input" name="name" type="text" value="<?php echo _def_name; ?>" placeholder="<?php echo _def_name; ?>">
-						<input class="text-input" name="email" type="text" value="<?php echo _def_email; ?>" placeholder="<?php echo _def_email; ?>">
-						<input class="text-input" name="phone" type="text" value="<?php echo _def_phone; ?>" placeholder="<?php echo _def_phone; ?>">
+						<input class="text-input" name="name" type="text" value="<?php echo Name; ?>" placeholder="<?php echo Name; ?>">
+						<input class="text-input" name="email" type="text" value="<?php echo Email; ?>" placeholder="<?php echo Email; ?>">
+						<input class="text-input" name="phone" type="text" value="<?php echo Phone; ?>" placeholder="<?php echo Phone; ?>">
 					</fieldset>
 					<fieldset class="column column-1-2">
-						<textarea name="message" placeholder="<?php echo _def_message; ?>"><?php echo _def_message; ?></textarea>
+						<textarea name="message" placeholder="<?php echo Message; ?>"><?php echo Message; ?></textarea>
 					</fieldset>
 				</div>
 				<div class="row margin-top-30">

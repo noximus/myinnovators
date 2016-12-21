@@ -33,7 +33,7 @@
 			</div>
 			<div class="column column-1-2">
 				<h2 class="box-header align-left">WE ARE RENOVATE</h2>
-				<p class="description t1">Founded by Kevin Smith back in 2000, Renovate has established itself as one of the greatest and prestigious providers of construction focused interior renovation services and building. We provide a professional renovation and installation services with a real focus on customer satisfaction. Our construction Services is a multi-task company specializing in the following core areas:</p>
+				<p class="description t1">For over a decade we have served this great city and we recognize that time is of the essence. This is why we have tailored our company to be an exclusive business that specializes in assisting the busy New Yorker. Our mission is to plan, manage and execute the projects that distract you from what you do best. We execute each assignment with integrity, and organized professionalism; ensuring premier treatment to our clients. Our professional, courteous, and intelligent teams are carefully selected and trained to make sure each job we complete leaves our clients with a feeling of confidence in our name; INNOVATORS. Our construction Services is a multi-task company specializing in the following core areas:</p>
 				<ul class="list margin-top-20">
 					<li class="template-bullet">We combine Quality Workmanship, Superior Knowledge and Low Prices</li>
 					<li class="template-bullet">We Can Ensure a Job is Done on Time and on Budget</li>

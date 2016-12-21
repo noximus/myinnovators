@@ -1,15 +1,15 @@
 <?php
-define('_from_name', 'QuanticaLabs@gmail.com');
-define('_from_email', 'quanticalabs@gmail.com');
+define('_from_name', 'My Innovators');
+define('_from_email', 'info@myinnovators.com');
 
-define('_to_name', 'QuanticaLabs@gmail.com');
-define('_to_email', 'quanticalabs@gmail.com');
+define('_to_name', 'My Innovators');
+define('_to_email', 'info@myinnovators.com');
 
-define('_smtp_host', '');
-define('_smtp_username', '');
-define('_smtp_password', '');
-define('_smtp_port', '');
-define('_smtp_secure', ''); //ssl or tls
+define('_smtp_host', 'myinnovators.com');
+define('_smtp_username', 'info@myinnovators.com');
+define('_smtp_password', 'Gohard2012');
+define('_smtp_port', '587');
+define('_smtp_secure', 'tls'); //ssl or tls
 
 define('_subject_email', 'Renovate: Contact from WWW');
 

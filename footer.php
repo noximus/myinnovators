@@ -1,19 +1,19 @@
-			<?php if($_GET["page"]!="contact" && $_GET["page"]!="contact_2"):?>
+			<!-- <?php if($_GET["page"]!="contact" && $_GET["page"]!="contact_2"):?>
 			<div class="row yellow full-width padding-top-bottom-30">
 				<div class="row">
 					<div class="column column-1-3">
 						<ul class="contact-details-list">
 							<li class="sl-small-phone">
 								<p>Phone:<br>
-								+149 75 23 222 35</p>
+								<a href="tel:718 369 7411">718 369 7411</a></p>
 							</li>
 						</ul>
 					</div>
 					<div class="column column-1-3">
 						<ul class="contact-details-list">
 							<li class="sl-small-location">
-								<p>272 Linden Avenue<br>
-								Winter Park, FL 32789</p>
+								<p>60 Water Street<br>
+								Brooklyn, NY 11201</p>
 							</li>
 						</ul>
 					</div>
@@ -21,30 +21,30 @@
 						<ul class="contact-details-list">
 							<li class="sl-small-mail">
 								<p>E-mail:<br>
-								<a href="mailto:kevin.smith@connect.com">renovate@mail.com</a></p>
+								<a href="mailto:info@myinnovators.com">info@myinnovators.com</a></p>
 							</li>
 						</ul>
 					</div>
 				</div>
 			</div>
-			<?php endif; ?>
+			<?php endif; ?> -->
 			<div class="row gray full-width page-padding-top padding-bottom-50">
 				<div class="row row-4-4">
 					<div class="column column-1-4">
 						<h6 class="box-header">About Us</h6>
-						<p class="description t1">Founded by Kevin Smith back in 2000. Renovate has estabilished itself as one of the greatest and prestigious providers of construction focused interior renovation services and building.</p>
+						<p class="description t1">We do it all for less. From commercial Renovations to painting your studio apartment, we're doing it every day, and we've been doing it for over 10 years.  We offer cost-effective solutions for a wide range of construction, renovation, and infrastructure upgrade projects.</p>
 						<ul class="social-icons yellow margin-top-26">
 							<li>
-								<a target="_blank" href="http://facebook.com/QuanticaLabs" class="social-facebook" title="facebook"></a>
+								<a target="_blank" href="https://www.facebook.com/MyInnovators" class="social-facebook" title="facebook"></a>
 							</li>
 							<li>
-								<a target="_blank" href="https://twitter.com/QuanticaLabs" class="social-twitter" title="twitter"></a>
+								<a target="_blank" href="https://twitter.com/nycinnovators" class="social-twitter" title="twitter"></a>
 							</li>
 							<li>
-								<a target="_blank" href="http://themeforest.net/user/QuanticaLabs/portfolio?ref=QuanticaLabs" class="social-linkedin" title="linkedin"></a>
+								<a target="_blank" href="http://www.linkedin.com/pub/edward-canfield/25/766/1b" class="social-linkedin" title="linkedin"></a>
 							</li>
 							<li>
-								<a href="https://pinterest.com/quanticalabs/" class="social-pinterest" title="pinterest"></a>
+								<a target="_blank" href="https://www.pinterest.com/MyInnovators/" class="social-pinterest" title="pinterest"></a>
 							</li>
 						</ul>
 					</div>
@@ -59,7 +59,7 @@
 							<li class="template-bullet">Solar Systems</li>
 						</ul>
 					</div>
-					<div class="column column-1-4">
+					<!-- <div class="column column-1-4">
 						<h6 class="box-header">Categories</h6>
 						<ul class="taxonomies margin-top-30">
 							<li><a href="?page=category&amp;cat=build" title="BUILD">BUILD</a></li>
@@ -73,8 +73,8 @@
 							<li><a href="?page=category&amp;cat=solar%20systems" title="SOLAR SYSTEMS">SOLAR SYSTEMS</a></li>
 							<li><a href="?page=category&amp;cat=tiling" title="TILING">TILING</a></li>
 						</ul>
-					</div>
-					<div class="column column-1-4">
+					</div> -->
+					<!-- <div class="column column-1-4">
 						<h6 class="box-header">Latest Posts</h6>
 						<ul class="blog small margin-top-30">
 							<li>
@@ -100,11 +100,11 @@
 								</div>
 							</li>
 						</ul>
-					</div>
+					</div> -->
 				</div>
 			</div>
 			<div class="row align-center padding-top-bottom-30">
-				<span class="copyright">© Copyright 2015 <a href="http://themeforest.net/item/renovate-construction-renovation-template/11313006?ref=QuanticaLabs" title="Renovate Template" target="_blank">Renovate Template</a> by <a href="http://quanticalabs.com" title="QuanticaLabs" target="_blank">QuanticaLabs</a></span>
+				<span class="copyright">© Copyright 2016 <a href="http://myinnovators.com/" title="My Innovators" target="_blank">My Innovators</a></span>&nbsp;&nbsp;<span class="copyright">Created by Pixel Rock Studios <a href="http://www.pixelrockstudios.com/#/home" title="Pixel Rock Studios" target="_blank">Pixel Rock Studios</a></span>
 			</div>
 		</div>
 		<a href="#top" class="scroll-top animated-element template-arrow-up" title="Scroll to top"></a>
